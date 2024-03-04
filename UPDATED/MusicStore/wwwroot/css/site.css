@@ -1,0 +1,43 @@
+* {
+    font-family: Roboto Condensed;
+}
+
+
+.roboto-condensed {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
+section.hero{
+    margin: 5rem;
+}
+
+.text-label,
+.text-hero-bold,
+.text-hero-regular{
+    margin: 24px 0px;
+}
+
+.text-label {
+    color: #919aa1;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 31px;
+}
+
+.text-hero-bold{
+    color: black;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 74px;
+}
+
+.text-hero-regular{
+    color: #798092;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 31px;
+
+}
